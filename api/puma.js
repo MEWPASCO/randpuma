@@ -12,7 +12,7 @@ const BLOCK_SITES = [
 const BLOCK_WORDS = [
   "sticker","clipart","svg","logo","vector","icon",
   "plush","plushie","toy","merch","tattoo","drawing",
-  "ai","midjourney","dalle","generated","meme","cartoon"
+  "ai","midjourney","dalle","generated","meme","cartoon","shoe"
 ];
 
 const QUERIES = [
