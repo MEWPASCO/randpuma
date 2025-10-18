@@ -16,6 +16,7 @@ const BLOCK_WORDS = [
 ];
 
 const QUERIES = [
+  "puma",
   "puma in the wild photo",
   "cougar wildlife photography",
   "mountain lion close up photo",
